@@ -421,7 +421,7 @@ padding: 30px 65px;
  gap: 40px;
  margin: 40px;
  margin-top: 60px;
- color: #324d67;
+ color: #3F6C98;
 
 }
 
@@ -467,9 +467,10 @@ padding: 30px 65px;
 }
 .product-detail-desc p{
   margin-top: 10px;
+  color: #FFF
 }
 .reviews p{
-  color: #324d67;
+  color: #dbd7d7;
   margin-top: 0px;
 }
 .product-detail-desc .price{
@@ -527,7 +528,7 @@ padding: 30px 65px;
 }
 .quantity-desc{
   border: 1px solid gray;
-padding: 6px;
+  padding: 6px;
 }
 .quantity-desc span{
   font-size: 16px;
