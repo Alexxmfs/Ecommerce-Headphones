@@ -281,7 +281,7 @@ text-align: end;
 .cart-container{
   height: 100vh;
   width: 600px;
-  background-color: white;
+  background-color: #2C2C2C;
   float: right;
   padding: 40px 10px;
   position: relative;
@@ -320,6 +320,7 @@ text-align: end;
 
 .cart-heading .heading{
   margin-left: 10px;
+  color: #FFF
 }
 .cart-num-items{
   margin-left: 10px;
@@ -328,6 +329,7 @@ text-align: end;
 .empty-cart{
   margin:40px;
   text-align:center;
+  color: #FFF
 }
 .empty-cart h3{
   font-weight: 600;
@@ -357,7 +359,7 @@ padding: 20px 10px;
   display: flex;
   justify-content: space-between;
   width: 350px;
-   color: #324d67;
+   color: #3F6C98;
 
 }
 .item-desc .bottom{
@@ -388,8 +390,9 @@ padding: 20px 10px;
   position: absolute;
   bottom: 12px;
   right: 5px;
-width: 100%;
-padding: 30px 65px;
+  width: 100%;
+  padding: 30px 65px;
+  color: #FFF
 
 }
 
