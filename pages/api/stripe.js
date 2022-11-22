@@ -4,6 +4,8 @@ const stripe = new Stripe(process.env.NEXT_PUBLIC_STRIPE_SECRET_KEY);
 
 export default async function handler(req, res) {
   if (req.method === "POST") {
+    console.log(req.body.newCartItems)
+
     try {
       const params = {
         submit_type: 'pay',
@@ -11,8 +13,8 @@ export default async function handler(req, res) {
         payment_method_types: ['card'],
         billing_address_collection: 'auto',
         shipping_options: [
-            { shipping_rate: '' },
-            { shipping_rate: '' },
+            { shipping_rate: 'shr_1M6gIJCytpPCEBvPkbdUxQ82' },
+            { shipping_rate: 'shr_1M732CCytpPCEBvPYTSNLH3x' },
         ],
         line_items: [
           {
