@@ -572,7 +572,7 @@ padding: 20px 10px;
   color: #f02d34;
 }
 .success-wrapper, .cancel-wrapper{
-  background-color: white;
+  background-color: #2C2C2C;
   min-height: 60vh;
 
 }

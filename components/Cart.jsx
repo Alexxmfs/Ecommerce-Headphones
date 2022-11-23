@@ -7,7 +7,6 @@ import toast from 'react-hot-toast';
 import { useStateContext } from '../context/StateContext';
 import { urlFor } from '../lib/client';
 import getStripe from '../lib/getStripe';
-import loadConfig from 'next/dist/server/config';
 
 const Cart = () => {
   const cartRef = useRef();
