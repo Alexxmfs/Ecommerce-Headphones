@@ -14,9 +14,7 @@ const Navbar = () => {
         <img class="imgLogo" src="https://raw.githubusercontent.com/Alexxmfs/Ecommerce-Headphones/image_demostra%C3%A7%C3%A3o/logo.png" />
         <Link href="/">Alex's Headphones</Link>
       </p>
-      <div class="homeNabBar">
-        <p class="homeNabBar">home</p>
-        </div>
+
       <button type="button" className="cart-icon" onClick={() => setShowCart(true)}>
           <AiOutlineShopping />
           <span className="cart-item-qty">{totalQuantities}</span>
