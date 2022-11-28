@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/Alexxmfs/Ecommerce-Headphones/image_demostra%C3%A7%C3%A3o/tela_inicial.PNG" />
 
+<img src="https://raw.githubusercontent.com/Alexxmfs/Ecommerce-Headphones/image_demostra%C3%A7%C3%A3o/img_products.PNG" />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
