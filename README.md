@@ -1,4 +1,4 @@
-<img src="https://blog.codeminer42.com/wp-content/uploads/2021/02/nextjs-cover.jpg" />
+<img src="https://raw.githubusercontent.com/Alexxmfs/Ecommerce-Headphones/image_demostra%C3%A7%C3%A3o/tela_inicial.PNG" />
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
