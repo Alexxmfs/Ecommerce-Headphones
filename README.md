@@ -4,6 +4,8 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Crie e implante um aplicativo de comércio eletrônico moderno e completo totalmente responsivo com a funcionalidade de pagamentos . Com design moderno, animações, a capacidade de adicionar e editar produtos em movimento usando um CMS, todas as funcionalidades avançadas de carrinho e, o mais importante, a integração completa com o Stripe para que você possa cobrir pagamentos REAIS.
+
 ## Getting Started
 
 First, run the development server:
